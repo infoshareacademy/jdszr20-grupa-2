@@ -1,0 +1,43 @@
+{
+  "features_order": [
+    {
+      "name": "tempmin_pasmo",
+      "type": "categorical",
+      "encoding": "onehot"
+    },
+    {
+      "name": "tempmax_pasmo",
+      "type": "categorical",
+      "encoding": "onehot"
+    },
+    {
+      "name": "is_cold_tolerant",
+      "type": "numeric"
+    },
+    {
+      "name": "is_heat_tolerant",
+      "type": "numeric"
+    },
+    {
+      "name": "category_group",
+      "type": "categorical",
+      "encoding": "onehot"
+    },
+    {
+      "name": "light_level_clean",
+      "type": "categorical",
+      "encoding": "onehot"
+    },
+    {
+      "name": "watering_group",
+      "type": "categorical",
+      "encoding": "onehot"
+    },
+    {
+      "name": "toxicity_any",
+      "type": "numeric"
+    }
+  ],
+  "target": null,
+  "notes": "Cechy u¿yte do modelu rekomendacji roœlin; wszystkie kategoryczne kodowane One-Hot."
+}

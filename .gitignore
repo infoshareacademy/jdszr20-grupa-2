@@ -1,0 +1,25 @@
+private/
+# ignoruj prywatne notatki
+private/
+*.md.private
+
+# ignoruj pliki środowiskowe
+.env
+venv/
+
+# ignoruj pliki tymczasowe z Jupytera
+.ipynb_checkpoints/
+
+Szkielet_ML_Projekt.ipynb 
+
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.DS_Store
+naprawa.md
+sciezki.md 
+szkielet02.md
+jira.md
+diagnoza.ipynb
+
+03-export_clusters.ipynb

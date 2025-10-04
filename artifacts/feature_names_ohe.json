@@ -1,0 +1,20 @@
+[
+  "tempmin_pasmo_Lubi ciepło",
+  "tempmin_pasmo_Odporna na chłód",
+  "tempmin_pasmo_Toleruje chłód",
+  "tempmin_pasmo_Tylko temperatura pokojowa",
+  "tempmax_pasmo_Normalna tolerancja ciepła",
+  "tempmax_pasmo_Odporna na upał",
+  "tempmax_pasmo_Wrażliwa na upał",
+  "category_group_Inne",
+  "category_group_Palma / drzewko ozdobne",
+  "category_group_Paproć / roślina zielona",
+  "category_group_Roślina kwitnąca",
+  "category_group_Sukulent / kaktus",
+  "category_group_Wisząca",
+  "light_level_clean_Bezpośrednie światło",
+  "light_level_clean_Rozproszone światło",
+  "watering_group_Często",
+  "watering_group_Rzadko",
+  "watering_group_Umiarkowanie"
+]
